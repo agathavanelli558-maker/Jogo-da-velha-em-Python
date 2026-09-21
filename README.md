@@ -28,7 +28,7 @@ Certifique-se de possuir o **Python** instalado em seu ambiente de execução.
 ## Clonar o repositório
 
 ```bash
-  git clone
+  git clone https://github.com/agathavanelli558-maker/Jogo-da-velha-em-Python.git
 ```
 ## Executando
 
