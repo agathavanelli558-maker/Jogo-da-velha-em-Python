@@ -25,11 +25,15 @@ Um clássico **Jogo da Velha (Tic-Tac-Toe)** desenvolvido em **Python** para exe
 ## Pré-requisitos
 
 Certifique-se de possuir o **Python** instalado em seu ambiente de execução.
+## Clonar o repositório
 
+```bash
+  git clone
+```
 ## Executando
 
 ```bash
-python "jogodavelha (1).py"
+python "jogodavelha.py"
 ```
 ## Breve Descrição do Funcionamento do Sistema
 O sistema executa um **loop interativo no terminal**. A cada rodada, o tabuleiro atual é exibido, o programa solicita a entrada numérica do jogador da vez, valida se a posição informada está livre e dentro do intervalo válido (1 a 9), atualiza o estado do jogo e verifica se houve vitória ou empate.
